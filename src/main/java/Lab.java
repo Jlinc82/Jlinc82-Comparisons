@@ -32,7 +32,7 @@ public class Lab {
      * @param b the second number to be compared.
      * @return true if a is greater than b, false otherwise.
      */
-    public boolean greaterThan(int a, int b){
+    public boolean greaterThan(int a, int b)
         return false;
     }
     /**
